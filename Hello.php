@@ -14,7 +14,7 @@ class Hello
 
     public function __construct()
     {
-        $this->faker1 = Faker\Factory::create();
+        $this->faker = Faker\Factory::create();
     }
 
     public function sayHello()
