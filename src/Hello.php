@@ -2,7 +2,7 @@
 
 namespace Com\Iesbere\Dam2\alexlliso\helloworldcomposer;
 
-require __DIR__ . "/../vendor/autoload.php";
+
 
 use Faker\Factory;
 /**

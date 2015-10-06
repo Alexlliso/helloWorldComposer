@@ -8,5 +8,10 @@
     ],
     "require": {
         "fzaninotto/faker": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Com\\Iesbere\\Dam2\\alexlliso\\helloworldcomposer\\": "src/"
+        }
     }
 }
