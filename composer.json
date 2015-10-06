@@ -1,0 +1,10 @@
+{
+    "name": "alexlliso/hello-world-composer",
+    "authors": [
+        {
+            "name": "balrog",
+            "email": "alexandrelliso@iesebre.com"
+        }
+    ],
+    "require": {}
+}
